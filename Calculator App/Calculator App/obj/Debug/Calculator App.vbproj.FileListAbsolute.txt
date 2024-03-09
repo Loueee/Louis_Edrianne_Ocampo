@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\bin\Debug\Calculator App.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\bin\Debug\Calculator App.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\bin\Debug\Calculator App.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\bin\Debug\Calculator App.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator_App.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator_App.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator App.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator App.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator App.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Calculator App\Calculator App\obj\Debug\Calculator App.pdb

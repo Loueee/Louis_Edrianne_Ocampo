@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\bin\Debug\Ocampo.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\bin\Debug\Ocampo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\bin\Debug\Ocampo.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\bin\Debug\Ocampo.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.exe
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.xml
+c:\users\administrator\documents\visual studio 2013\Projects\Ocampo\Ocampo\obj\Debug\Ocampo.pdb
